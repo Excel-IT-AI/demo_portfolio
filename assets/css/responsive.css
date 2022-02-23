@@ -1,0 +1,11 @@
+@media only screen and (max-width: 600px) {
+    .inner-main .about .about-img {
+        display: none;
+      }
+    
+    .footer-section {
+        background-size: cover;
+        clip-path: none;
+      }
+
+  }
